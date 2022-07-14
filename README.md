@@ -26,4 +26,4 @@
   <a href = "https://twitter.com/BhrunoRL"><img src="https://img.shields.io/badge/twitter-00acee?style=for-the-badge&logo=twitter&logoColor=white"></a>
 </div>
 
-![MS The office](https://user-images.githubusercontent.com/74799845/173839108-3c2f5d4b-2717-4cc6-aa8d-f6d380b05900.gif)
+
