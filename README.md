@@ -6,7 +6,7 @@
 <br>
 🤓 - I'm studing software engineering currently in fifth semester
 <br>
-🎂 - 20y
+🎂 - 22y
 <br>
 <p>
 
