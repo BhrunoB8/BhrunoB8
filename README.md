@@ -4,7 +4,7 @@
 <br>
 😉 - My name is Bhruno, but you can call me Bh
 <br>
-🤓 - I'm an undergraduate student in Software Engineering, currently in my fifth semester.
+🤓 - I'm an undergraduate student in Software Engineering.
 <br>
 🎂 - 22y
 <br>
